@@ -1,0 +1,9 @@
+ma\enset\gestion_consultation\GestionConsultationApplication.class
+ma\enset\gestion_consultation\model\Consultation.class
+ma\enset\gestion_consultation\repository\PatientRepository.class
+ma\enset\gestion_consultation\controller\ConsultationController.class
+ma\enset\gestion_consultation\model\Patient.class
+ma\enset\gestion_consultation\controller\PatientController.class
+ma\enset\gestion_consultation\service\ConsultationService.class
+ma\enset\gestion_consultation\repository\ConsultationRepository.class
+ma\enset\gestion_consultation\service\PatientService.class
